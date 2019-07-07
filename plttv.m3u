@@ -1,0 +1,422 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://bit.ly/2UuZUkX" group-title="Ulusal Kanallar-",SHOW TURK | 
+https://blutv-beta.akamaized.net/showturk/showturk.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2CAuq69" group-title="Ulusal Kanallar-Tekno Beceri",KANAL D | 
+https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2J5r0Os" group-title="Ulusal Kanallar-",FOX TV |
+http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2UuCAUA" group-title="Ulusal Kanallar-",ATV HD | 
+http://blutv-beta.akamaized.net/atvhd/atvhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2XZEfUm" group-title="Ulusal Kanallar-Tekno Beceri",STAR TV SD | teknobeceri.com http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2TFgl16" group-title="Ulusal Kanallar-",TRT 1 HD| 
+https://mn-nl.mncdn.com/blutv_live/trt1hd/trt1hd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2HrBwx1" group-title="Ulusal Kanallar-",KANAL 7 HD | 
+https://blutv-beta.akamaized.net/kanal7hd/kanal7hd.smil/playlist.m3u8
+#EXTINF:-1
+ tvg-logo="http://bit.ly/2SYVpNU" group-title="Ulusal Kanallar-",TV8 HD  | 
+http://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2HcGe2j" group-title="Ulusal Kanallar-",TV 8.5 | 
+https://blutv-beta.akamaized.net/tv8.5hd/tv8.5hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.bioenerjiaktivasyonu.com/site_document/sayfa_img/FOCAAYMX7_resim_31_3_2019_0_s.jpg" group-title="Ulusal Kanallar-",TV 8 INT| 
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8int_480p.m3u8?e=1562401195&st=j8bKNaojuW2ZM9ktGujMPw
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Hto2BO" group-title="Haber Kanallari-Tekno Beceri",HALK TV | 
+#EXTINF:-1 
+tvg-logo="http://bit.ly/2TFgl16" group-title="Ulusal Kanallar-Tekno Beceri",TRT 1 HD Secenek 2 | teknobeceri.com
+https://mn-nl.mncdn.com/blutv_live/trt1hd/trt1hd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2HoZHw0" group-title="Haber Kanallari-Tekno Beceri",HABERTURK | teknobeceri.com
+https://blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2F4oyDI" group-title="Haber Kanallari-Tekno Beceri",24 TV | teknobeceri.com
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2SU8Rmk" group-title="Haber Kanallari-Tekno Beceri",TRT HABER | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2C9nPiT" group-title="Haber Kanallari-Tekno Beceri",A HABER HD | teknobeceri.com
+http://blutv-beta.akamaized.net/ahaber/ahaber.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2XRAf8n" group-title="Haber Kanallari-Tekno Beceri",NTV | teknobeceri.com
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.canlitvlive.io/logo/cnn-turk.png" group-title="Haber Kanallari-Tekno Beceri",CNN TURK | teknobeceri.com
+http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2ETY86w" group-title="Haber Kanallari-Tekno Beceri",TGRT HABER | teknobeceri.com
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/tgrt1/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.bloomberght.com/images/logo.png" group-title="Haber Kanallari-Tekno Beceri",BLOOMBERG HT | teknobeceri.com
+https://blutv-beta.akamaized.net/bloomberghd/bloomberghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2OkqpYk" group-title="Sinema Kanallari-Tekno Beceri",SINEMA TV 1 | teknobeceri.com
+http://maksimtv.radyotelekomtv.com:1935/maksimtv/maksimtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Fqsdfr" group-title="Sinema Kanallari-Tekno Beceri",DMAX | teknobeceri.com
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTM3U #####kürt Kanlar###
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qj08rm27s2M/U6KJL8D09MI/AAAAAAAAAFE/BBUttHAHTDA/s1600/zaro_tv_hewler_340_2013_12_20_h15m53s24.jpg" group-title="kurtce Kanallar-",ZAROK TV 
+https://stream-08.ix7.dailymotion.com/sec(Xio92lQyFXPlwj6tYdjikiyiXWSA8T8qVFZ3wHE27C8)/dm/3/x63b9ty/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032016/untitled-3.png?itok=0APpQG80/800px-TRT_6_Yeni_Logo.png" group-title="",CIHAN TV
+http://teradek.live:1935/live/cihanhd/chunklist_w142503836.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-cveRFvmx6RU/WURbIK3qihI/AAAAAAAAAMo/aRycPtHhpScWM2MHBclvmgh5AiCi0pqwwCLcBGAs/s320/19060014_1161620113983207_2792907069925750860_n.png" group-title="AMED TV
+http://144.76.114.110:1935/live/ATV/chunklist_w308565363.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.akgedik.com/wordpress/wp-content/uploads/2017/09/medtahabertv-300x232.jpg"?zoom=2"
+ group-title="",MEDYA HABER
+http://137.74.205.201/live15/live15.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Cantv_logo.PNG"?zoom=2"
+ group-title=",CAN TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 tvg-logo="https://kurdshow.weebly.com/uploads/1/2/1/6/121668356/untitled-2_orig.jpg"?zoom=2"
+ group-title="",KURD MAX SHOW
+http://31.14.40.139:1935/liveTrans/SHOW2/chunklist_w595855330.m3u8
+#EXTINF:-1 tvg-logo="http://kurtcetvizle.com/wp-content/uploads/2014/02/mmc-tv-kurtce-izle.jpg" group-title=""STERK Tv
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:-1 tvg-logo="https://www.jiyanhaber.net/wp-content/uploads/2019/03/LOGO-370-208.png" group-title="ARTI TV
+http://95.216.46.88:8081/artitv/arti_abr/artitv/arti/chunks.m3u8?nimblesessionid=8573572&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTkgNDo1ODoyNyBBTSZoYXNoX3ZhbHVlPUVOSkd4Y2J1Vks0REZYSWR1V3orK3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/MedMuzik.png" group-title="",MED Tv
+http://137.74.205.201/live3/mm-3mbps.m3u8
+#EXTINF:-1 tvg-logo="https://www.weneland.com/news/tr/2014/02/26/cocuk-kanali-kurdmax-peple-tv-yayin-hayatina-basladi.jpg" group-title="",PEPULE Tv sorani
+http://31.14.40.139:1935/liveTrans/Pepule/chunklist_w1941350417.m3u8
+#EXTINF:-1 tvg-logo="https://www.weneland.com/news/tr/2014/02/26/cocuk-kanali-kurdmax-peple-tv-yayin-hayatina-basladi.jpg" group-title="",PEPULE Tv kurmanci
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist_w1167018372.m3u8
+/s/live-0.m3u8
+#EXTINF:-1
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Rudaw.jpg" group-title="",RUDAW TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Kurdsat-TV-logo.jpg?ssl=1?ssl=" group-title="",KURD SAT
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/14/Kurdistan_tv.png" group-title="",KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1159233377_b1296000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://kurdistan24.blob.core.windows.net/filemanager/resources/files/2017/10/K-24-NWEE.jpg" group-title="KURDISTAN 24
+http://95.170.215.106/hls/m3u8/K24-Backup.m3u8#/media/File%3AKurdistan24.png
+#EXTINF:-1 tvg-logo="http://bit.ly/2TzNoo9" group-title="Ulusal Kanallar-Tekno Beceri",TRT KURDI | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2F6UFTv" group-title="Ulusal Kanallar-Tekno Beceri",BEYAZ TV | teknobeceri.com
+https://blutv-beta.akamaized.net/beyaztv/beyaztv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2TuFImT" group-title="Ulusal Kanallar-Tekno Beceri",CINE 5 TV | teknobeceri.com
+https://win1.yayin.com.tr/cine5/cine5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2VSqcOf" group-title="Ulusal Kanallar-Tekno Beceri",TEVE 2 | teknobeceri.com
+https://teve2.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2XRrwTy" group-title="Ulusal Kanallar-Tekno Beceri",TLC | teknobeceri.com
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_sltur.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2VPy0k3" group-title="Ulusal Kanallar-Tekno Beceri",DMAX. | teknobeceri.com
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2vsjiEB" group-title="Ulusal Kanallar-Tekno Beceri",TRT 2 HD | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2J6E8Tz" group-title="Ulusal Kanallar-Tekno Beceri",A2 HD | teknobeceri.com
+https://blutv-beta.akamaized.net/a2/a2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2NZ842D" group-title="Ulusal Kanallar-Tekno Beceri",UCANKUS TV | teknobeceri.com
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2Tvzh31" group-title="Ulusal Kanallar-Tekno Beceri",FORTUNA TV | teknobeceri.com
+http://1.rtmp.org/tv117/yayin.stream/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2HqsX5D" group-title="Ulusal Kanallar-Tekno Beceri",AKILLI TV | teknobeceri.com
+http://akillitvhls.cdn.streamprovider.net/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2ES5ozD" group-title="Ulusal Kanallar-Tekno Beceri",ROMAN TV | teknobeceri.com
+http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2Chb0mw" group-title="Ulusal Kanallar-Tekno Beceri",TRT TURK | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2TxkvbW" group-title="Ulusal Kanallar-Tekno Beceri",TRT AVAZ | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2UtUtTm" group-title="Ulusal Kanallar-Tekno Beceri",MECLIS TV | teknobeceri.com
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2Uvhd5r" group-title="Ulusal Kanallar-Tekno Beceri",TV 5 | teknobeceri.com
+http://nbvd2zzn.rocketcdn.com/tv5.smil/chunklist_b796000_sltur.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2Tze7Rt" group-title="Haber Kanallari-Tekno Beceri",GLOBAL HABER | teknobeceri.com
+https://eijxuuic.rocketcdn.com/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.canlitvlive.io/logo/a-para.png" group-title="Haber Kanallari-Tekno Beceri",A PARA | teknobeceri.com
+http://blutv-beta.akamaized.net/apara/apara.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://toyworldmag.co.uk/wp-content/uploads/2016/09/Talking-Tom-480.png" group-title="Ulusal Kanallar-Tekno Beceri",TOM ÇOCUK TV Secenek 2 | teknobeceri.com
+https://r6---sn-25ge7nld.googlevideo.com/videoplayback?expire=1562498321&ei=sYAhXfCmH4uUhAf8pLyQCg&ip=37.173.201.129&id=QzsfLSP6hkI.318&itag=135&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&fvip=6&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRAIgbnykA4IorlT7eEuH8WMuZ4bXQj2CBBpnXNihSQTCDsYCIALC7o9-_bzPXtFnkaTAOlDXI9EoMokwKvXk3ZVQEBnP&alr=yes&cpn=jbJa9WGk42a54Cfr&cver=20190702&redirect_counter=1&rm=sn-25gks76&cms_redirect=yes&ipbypass=yes&mip=37.173.105.217&mm=44&mn=sn-25ge7nld&ms=lva&mt=1562476637&mv=m&mvi=5&pl=13&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgR5LemT6Z56V7KJX_PIdh9qPvXOsRHWTnrKIFfCpEpEICIArPK0RQr2Y-Sq5B5BlmiQ1d1e07VNqdoSrgFiLf5qU5&headm=3&rn=45&rbuf=0
+#EXTINF:-1 tvg-logo="http://img.canlitvlive.io/logo/a-para.png" group-title="Haber Kanallari-Tekno Beceri",A PARA Secenek 2 | teknobeceri.com
+https://trkvz-m.ercdn.net/trkvz-temp/aparahdm.m3u8
+#EXTINF:-1 tvg-logo="http://img.canlitvlive.io/logo/ulke-tv.png" group-title="Haber Kanallari-Tekno Beceri",ULKE TV | teknobeceri.com
+https://blutv-beta.akamaized.net/ulketvhd/ulketvhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.canlitvlive.io/logo/akit-tv.png" group-title="Haber Kanallari-Tekno Beceri",AKIT TV | teknobeceri.com
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-logo="http://img.canlitvlive.io/logo/kanal-b.png" group-title="Haber Kanallari-Tekno Beceri",KANAL B | teknobeceri.com
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2NWfweY" group-title="Haber Kanallari-Tekno Beceri",ULUSAL KANAL | teknobeceri.com
+http://98.142.98.125:1935/ulusaltv/ulusaltv/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2UUJbfq" group-title="Spor Kanallari-Tekno Beceri",BEIN SPORT 3 Secenek 2 | teknobeceri.com
+https://s03.trcdn.co/live/bein-sport-1.m3u8?s=UB2SwRcm0EyRU-0wfw74oA&e=1562369498
+#EXTINF:-1 tvg-logo="http://tinyurl.com/yy3erenv" group-title="Spor Kanallari-Tekno Beceri",BEIN SPORT MAX 1 Secenek 2 | teknobeceri.com
+#EXTINF:-1 tvg-logo="http://bit.ly/2UUJbfq" group-title="Spor Kanallari-Tekno Beceri",BEIN SPORT HABER | teknobeceri.com
+http://176.10.117.12:8081/aypitv/BeinsportHaber/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2XJQcgC" group-title="Spor Kanallari-Tekno Beceri",TRT SPOR | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2TJtsOG" group-title="Spor Kanallari-Tekno Beceri",TIVIBU SPOR | teknobeceri.com
+http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2TJtsOG" group-title="Spor Kanallari-Tekno Beceri",TIVIBU SPOR 3 | teknobeceri.com
+http://176.10.117.12:8081/aypitv/Tivibu3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2XSZp6r" group-title="Spor Kanallari-Tekno Beceri",SMART SPOR | teknobeceri.com
+https://blutv.dogannet.tv/NP1/SSPOR1/FP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iaspr.tmgrup.com.tr/2019/01/01/1546347851588.png" group-title="Spor Kanallari-Tekno Beceri",A SPOR HD | teknobeceri.com
+https://blutv-beta.akamaized.net/aspor/aspor.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iaspr.tmgrup.com.tr/2019/01/01/1546347851588.png" group-title="Spor Kanallari-Tekno Beceri",A SPOR SD | teknobeceri.com
+https://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1 tvg-logo="http://www.ecanlitvizle.co/sportstv.png" group-title="Spor Kanallari-Tekno Beceri",SPORTS TV | teknobeceri.com
+https://blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.besiktashaberleri.com/wp-content/uploads/2018/09/CBC_Sports.jpeg" group-title="Spor Kanallari-Tekno Beceri",CBC-SPORT Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TJK-logo-5672938FF8-seeklogo.com.png" group-title="Spor Kanallari-Tekno Beceri",TJK TV | teknobeceri.com
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CXdmUIMWwAAavoC.jpg" group-title="Spor Kanallari-Tekno Beceri",TAY TV | teknobeceri.com
+https://blutv-beta.akamaized.net/taytvhd/taytvhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2ZUpLps" group-title="Spor Kanallari-Tekno Beceri",FB TV | teknobeceri.com
+http://176.10.117.21:8081/aypitv/FB_Tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2EQ15ox" group-title="Muzik Kanallari-Tekno Beceri",TRT MUZIK | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Y5Eu0e" group-title="Muzik Kanallari-Tekno Beceri",POWERTURK TV | teknobeceri.com
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TW1qQ4" group-title="Muzik Kanallari-Tekno Beceri",POWER TV | teknobeceri.com
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2W97mTt" group-title="Muzik Kanallari-Tekno Beceri",KRAL POP Konser | teknobeceri.com
+https://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2W97mTt" group-title="Muzik Kanallari-Tekno Beceri",KRAL WORLD TV | teknobeceri.com
+http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2CmoHRi" group-title="Muzik Kanallari-Tekno Beceri",FINEST TV | teknobeceri.com
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ffqg4i" group-title="Muzik Kanallari-Tekno Beceri",DREAM TuRK TV | teknobeceri.com
+https://live.dogannet.tv/S2/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.canlitv.mobi/kanallar/dugun-tv.png" group-title="Muzik Kanallari-Tekno Beceri",DUÐUN TV 
+http://62.113.210.6/televizyon-live/DugunTv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2VSqcOf" group-title="Sinema Kanallari-Tekno Beceri",-TEVE 2 | teknobeceri.com
+https://teve2.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2U4K3MW" group-title="Sinema Kanallari-Tekno Beceri",SINEMA TURK TV | teknobeceri.com
+http://almanyadaturktv.radyotelekomtv.com:1935/almanyadaturktv/almanyadaturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2uh1Hyt" group-title="Sinema Kanallari-Tekno Beceri",FRM TV HD | teknobeceri.com
+https://5bc9a1b0241ce.streamlock.net/live/myStream/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2HrN8AO" group-title="Sinema Kanallari-Tekno Beceri",SES TV-Azerbaycan | teknobeceri.com
+http://i52.radyotelekomtv.com:1935/maksimtv/maksimtv/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2TGeybR" group-title="Cocuk Kanallari-Tekno Beceri",TRT COCUK | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2JjKxLc" group-title="Cocuk Kanallari-Tekno Beceri",MINIKA GO | teknobeceri.com
+https://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2udnx60" group-title="Cocuk Kanallari-Tekno Beceri",MINIKA COCUK | teknobeceri.com
+https://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2WbIBpL" group-title="Cocuk Kanallari-Tekno Beceri",LALE TV-Kirim Tatar | teknobeceri.com
+http://stream.atr.ua/lale/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2CduCbm" group-title="Belgesel Kanallari-Tekno Beceri",TRT BELGESEL | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2XYr3Pz" group-title="Belgesel Kanallari-Tekno Beceri",TGRT BELGESEL | teknobeceri.com
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2HBufuB" group-title="Belgesel Kanallari-Tekno Beceri",KOY TV | teknobeceri.com
+http://195.244.32.3/koytv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2FiMQda" group-title="Belgesel Kanallari-Tekno Beceri",BEREKET TV | teknobeceri.com
+https://mtzerfslulaflive.mediatriple.net/mtzerfslulaflive/broadcast_5a1ebda4744d6.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2FiMQda" group-title="Belgesel Kanallari-Tekno Beceri",BEREKET HAYVANCILIK TV | teknobeceri.com
+https://mtzerfslulaflive.mediatriple.net/mtzerfslulaflive/broadcast_5a245708b8a5e.smil/chunklist_w465430995_b800000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2SZOhkq" group-title="Dini Kanallar-Tekno Beceri",DIYANET TV | teknobeceri.com
+https://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TTb1qU" group-title="Dini Kanallar-Tekno Beceri",SEMERKAND TV | teknobeceri.com
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TGqvPC" group-title="Dini Kanallar-Tekno Beceri",LALEGUL TV | teknobeceri.com
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2W9Tt7d" group-title="Dini Kanallar-Tekno Beceri",KUDUS TV | teknobeceri.com
+http://yayin10.canliyayin.org/P981680400/kudustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2IB2bZv" group-title="Dini Kanallar-Tekno Beceri",KABE TV(CANLI YAYIN) | teknobeceri.com
+http://92.33.12.164:25461/live/esh-line/C4A@!21A1awEq/4.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2Gs86N3" group-title="Dini Kanallar-Tekno Beceri",MEDINE TV(canli) | teknobeceri.com
+http://92.33.12.164:25461/live/esh-line/C4A@!21A1awEq/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TJDDnd" group-title="Yerel Kanallar-Tekno Beceri",AKSU TV | teknobeceri.com
+rtmp://stream.taksimbilisim.com/aksutv/bant1
+#EXTINF:-1 tvg-logo="https://bit.ly/2HDo1uk" group-title="Yerel Kanallar-Tekno Beceri",ALTAS TV | teknobeceri.com
+http://stream.taksimbilisim.com:1935/altastv/smil:altastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Cpsnls" group-title="Yerel Kanallar-Tekno Beceri",ATV ALANYA | teknobeceri.com
+http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2udHeL3" group-title="Yerel Kanallar-Tekno Beceri",BEN TV | teknobeceri.com
+http://kanalben.cubecdn.net/live/kanalben1.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2O9cIeF" group-title="Yerel Kanallar-Tekno Beceri",BRT1 HD | teknobeceri.com
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2OcqPQm" group-title="Yerel Kanallar-Tekno Beceri",BRTSPOR | teknobeceri.com
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2JmTfbv" group-title="Yerel Kanallar-Tekno Beceri",BURSA AS TV | teknobeceri.com
+https://59cba4d34b678.streamlock.net/canlitv/astv/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2OcdSpq" group-title="Yerel Kanallar-Tekno Beceri",BURSA KANAL 16 | teknobeceri.com
+http://www.kanal16haber.com:4343/hls/canli1.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2uaW30W" group-title="Yerel Kanallar-Tekno Beceri",BURSA LINE TV | teknobeceri.com
+https://broadcasttr.com:446/linetv/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2JutKoy" group-title="Yerel Kanallar-Tekno Beceri",BURSA TV | teknobeceri.com
+http://win1.yayin.com.tr/bursatv/bursatv/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2HEXYTt" group-title="Yerel Kanallar-Tekno Beceri",CANAKKALE TON TV | teknobeceri.com
+http://stream.taksimbilisim.com:1935/tontv/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TaxA65" group-title="Yerel Kanallar-Tekno Beceri",CAY TV | teknobeceri.com
+http://stream2.taksimbilisim.com:1935/caytv/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Tb0ov7" group-title="Yerel Kanallar-Tekno Beceri",DEHA TV | teknobeceri.com
+https://waw2.artiyerelmedya.net/dehatv/bant1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TIk92s" group-title="Yerel Kanallar-Tekno Beceri",DRT | teknobeceri.com
+http://stream2.taksimbilisim.com:1935/drt/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Cp2Kko" group-title="Yerel Kanallar-Tekno Beceri",EDESSA TV | teknobeceri.com
+http://185.87.252.44:1935/edessatv/edessatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2CpRPa6" group-title="Yerel Kanallar-Tekno Beceri",ETV MANISA | teknobeceri.com
+http://broadcasttr.com:1935/manisaetv/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2Gpfwke" group-title="Yerel Kanallar-Tekno Beceri",EGEM TV UÞAK | teknobeceri.com
+http://stream2.taksimbilisim.com:1935/egemtv/bant1/chunklist_w43197844.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Cp3tC8" group-title="Yerel Kanallar-Tekno Beceri",GAZIANTEP OLAY TV | teknobeceri.com
+http://yerelmedya.tv:1935/olaytv/_definst_/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Y1StE1" group-title="Yerel Kanallar-Tekno Beceri",GEMLIK SANDAL TV | teknobeceri.com
+http://player123.radyotelekomtv.com:1935/sandaltv/sandaltv/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2CpO6cJ" group-title="Yerel Kanallar-Tekno Beceri",GUNEYDOÐU TV | teknobeceri.com
+http://stream2.taksimbilisim.com:1935/gtv/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2OaoSDS" group-title="Yerel Kanallar-Tekno Beceri",ICEL TV | teknobeceri.com
+http://stream.taksimbilisim.com:1935/iceltv/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TImpXu" group-title="Yerel Kanallar-Tekno Beceri",ISTANBUL 1 | teknobeceri.com
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2umb2p7" group-title="Yerel Kanallar-Tekno Beceri",ISTANBUL 2 | teknobeceri.com
+http://wowza.istweb.tv:1935/dp/istanbul2/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Cqxrpz" group-title="Yerel Kanallar-Tekno Beceri",KANAL 15 | teknobeceri.com
+http://broadcasttr.com:1935/kanal15/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2F9zXB3" group-title="Yerel Kanallar-Tekno Beceri",KANAL 19 | teknobeceri.com
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2uaIwGP" group-title="Yerel Kanallar-Tekno Beceri",KANAL 3 | teknobeceri.com
+https://waw2.artiyerelmedya.net:446/kanal26website/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2OdbVJo" group-title="Yerel Kanallar-Tekno Beceri",KANAL 26 | teknobeceri.com
+http://yerelmedya.tv:1935/kanal26/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2JzbdYD" group-title="Yerel Kanallar-Tekno Beceri",KANAL 33 | teknobeceri.com
+http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2HsEd26" group-title="Yerel Kanallar-Tekno Beceri",KANAL 34 | teknobeceri.com
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2udXuvz" group-title="Yerel Kanallar-Tekno Beceri",KANAL 38 | teknobeceri.com
+http://yayin3.canlitv.com:1935/live/kanal38/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Fl2uVO" group-title="Yerel Kanallar-Tekno Beceri",KANAL 43 | teknobeceri.com
+http://yayin3.canlitv.com:1935/canlitv/kanal43/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2FjqRDh" group-title="Yerel Kanallar-Tekno Beceri",KANAL 68 | teknobeceri.com
+https://waw2.artiyerelmedya.net:446/kanal68/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2uaJ9QJ" group-title="Yerel Kanallar-Tekno Beceri",KANAL ALANYA | teknobeceri.com
+http://stream2.taksimbilisim.com:1935/kanala/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Fi4jm4" group-title="Yerel Kanallar-Tekno Beceri",KANAL T | teknobeceri.com
+http://207.180.223.92:1935/live/kanalt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2JhRoVd" group-title="Yerel Kanallar-Tekno Beceri",KANAL URFA | teknobeceri.com
+http://stream.taksimbilisim.com:1935/kanalurfa/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2ClqJkr" group-title="Yerel Kanallar-Tekno Beceri",KANAL Z | teknobeceri.com
+http://stream.taksimbilisim.com:1935/kanalz/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2W8VqRk" group-title="Yerel Kanallar-Tekno Beceri",KOROÐLU TV | teknobeceri.com
+http://stream.taksimbilisim.com:1935/koroglutv/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2UHUWBD" group-title="Yerel Kanallar-Tekno Beceri",MARMARIS TV | teknobeceri.com
+http://yayin3.canlitv.com:1935/canlitv/marmaristv/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2W7V8KQ" group-title="Yerel Kanallar-Tekno Beceri",MERKEZ TV | teknobeceri.com
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2CABfVt" group-title="Yerel Kanallar-Tekno Beceri",ONCU TV | teknobeceri.com
+https://waw2.artiyerelmedya.net:446/oncurtv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TK3xqY" group-title="Yerel Kanallar-Tekno Beceri",SINOP YILDIZ TV | teknobeceri.com
+https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Coc4VM" group-title="Yerel Kanallar-Tekno Beceri",SIVAS SRT | teknobeceri.com
+http://stream.taksimbilisim.com:1935/srt/smil:srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2W7WhC8" group-title="Yerel Kanallar-Tekno Beceri",SUN TV KONYA | teknobeceri.com
+http://148.251.42.124:8081/live/suntv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TI2Bn0" group-title="Yerel Kanallar-Tekno Beceri",SUN RTV MERSIN | teknobeceri.com
+https://waw2.artiyerelmedya.net:446/sunrtv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TI2Bn0" group-title="Yerel Kanallar-Tekno Beceri",SUN RTV MERSIN Secenek 2 | teknobeceri.com
+http://stream2.taksimbilisim.com:1935/mersinsuntv/smil:mersinsuntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TOU5Tr" group-title="Yerel Kanallar-Tekno Beceri",TARSUS GüNEY TV | teknobeceri.com
+http://stream.taksimbilisim.com:1935/tarsusguneytv/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Y61lsv" group-title="Yerel Kanallar-Tekno Beceri",TEK RUMELI TV | teknobeceri.com
+http://yayin3.canlitv.com:1935/canlitv/tekrumelitv/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Fke1EJ" group-title="Yerel Kanallar-Tekno Beceri",TEMPO TV | teknobeceri.com
+https://win25.yayin.com.tr/TempoNetTv/TempoNetTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Y4VSSz" group-title="Yerel Kanallar-Tekno Beceri",TV 1 | teknobeceri.com
+http://stream.taksimbilisim.com:1935/tv1/bant1/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2udxxME" group-title="Yerel Kanallar-Tekno Beceri",TV100 | teknobeceri.com
+https://xstream.gostream.nl/tv100/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2UHXsYB" group-title="Yerel Kanallar-Tekno Beceri",KANAL V | teknobeceri.com
+#EXTINF:-1 tvg-logo="" group-title="Yerel Kanallar-Tekno Beceri",YAT TV | teknobeceri.com
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2FaSg93" group-title="Turki Kanallar-Tekno Beceri",ALTIN ASIR TV | teknobeceri.com
+http://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2F9szFS" group-title="Turki Kanallar-Tekno Beceri",ARB Azerbaycan | teknobeceri.com
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TK5Qdv" group-title="Turki Kanallar-Tekno Beceri",ASKABAT TV | teknobeceri.com
+http://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2O928Ec" group-title="Turki Kanallar-Tekno Beceri",YASLYK TV Turkmenistan | teknobeceri.com
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TMouBI" group-title="Turki Kanallar-Tekno Beceri",TURKMEN QWAZY | teknobeceri.com
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TftQAj" group-title="Turki Kanallar-Tekno Beceri",TURKMEN MIRAS | teknobeceri.com
+https://alpha.tv.online.tm/legacyhls/ch003.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2W9gsiV" group-title="Turki Kanallar-Tekno Beceri",TURKMENISTAN | teknobeceri.com
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TV7d8u" group-title="Turki Kanallar-Tekno Beceri",ATR Kirim Tatar | teknobeceri.com
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2FldMcs" group-title="Turki Kanallar-Tekno Beceri",ATV Azerbaycan | teknobeceri.com
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2udBGAc" group-title="Turki Kanallar-Tekno Beceri",AZ TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/aztvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2wTcodc" group-title="Turki Kanallar-Tekno Beceri",IDMAN TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/idmanhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Flhfba" group-title="Turki Kanallar-Tekno Beceri",MEDENIYYET Azerbaycan | teknobeceri.com
+https://streams2.livetv.az/azerbaijan/medeniyyethd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2W6VzVt" group-title="Turki Kanallar-Tekno Beceri",CBC SPORT Azerbaycan | teknobeceri.com
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2ufb2XD" group-title="Turki Kanallar-Tekno Beceri",CBC TV Azerbaycan | teknobeceri.com
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2JkL0Ni" group-title="Turki Kanallar-Tekno Beceri",DALGA TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TaD1SB" group-title="Turki Kanallar-Tekno Beceri",DUNYA TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/dunya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2UGKxGr" group-title="Turki Kanallar-Tekno Beceri",GUNAZ TV Azerbaycan | teknobeceri.com
+https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist_w132679574_b450000.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TerqBO" group-title="Turki Kanallar-Tekno Beceri",ICTIMAI TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/ictimaihd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2WakDv4" group-title="Turki Kanallar-Tekno Beceri",KEPEZ TV Azerbaycan | teknobeceri.com
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2CmA4Zq" group-title="Turki Kanallar-Tekno Beceri",LIDER TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/lider_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2CmA4Zq" group-title="Turki Kanallar-Tekno Beceri",LIDER TV AZERBAYCAN Secenek 2 | teknobeceri.com
+rtmp://85.132.48.75/livepkgr/livestream3 
+#EXTINF:-1 tvg-logo="https://bit.ly/2FjE1jA" group-title="Turki Kanallar-Tekno Beceri",MUZ TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/live/muztv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2HuHuhj" group-title="Turki Kanallar-Tekno Beceri",QAFQAZ TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/external/qafqaztv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Jm0hxj" group-title="Turki Kanallar-Tekno Beceri",SAHAR TV | teknobeceri.com
+http://wpc.785f5.zetacdn.net/24785F5/azeri/azeriStream.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Thb5wi" group-title="Turki Kanallar-Tekno Beceri",SES TV Azerbaycan | teknobeceri.com
+http://i52.radyotelekomtv.com:1935/maksimtv/maksimtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2ufdpK1" group-title="Turki Kanallar-Tekno Beceri",SPACE TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2JovIH9" group-title="Turki Kanallar-Tekno Beceri",TURKMEN SPORT | teknobeceri.com
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TYEHmk" group-title="Turki Kanallar-Tekno Beceri",XEZER TV Azerbaycan | teknobeceri.com
+https://streams.livetv.az/azerbaijan/xazar_stream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TKbTPf" group-title="Turki Kanallar-Tekno Beceri",LALE TV Kirim Tatar | teknobeceri.com
+http://stream.atr.ua/lale/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2L4d7Bg" group-title="Alman Kanallari-Tekno Beceri",Munchen TV | teknobeceri.com
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2UyHX4i" group-title="Alman Kanallari-Tekno Beceri",Das Erste HD | teknobeceri.com
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2IxVGGZ" group-title="Alman Kanallari-Tekno Beceri",ZDF TV | teknobeceri.com
+https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://bit.ly/2IOGrsy" group-title="Alman Kanallari-Tekno Beceri",Tagesschau24 De | teknobeceri.com
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://bit.ly/2VZqGmp" group-title="Alman Kanallari-Tekno Beceri",one HD | teknobeceri.com
+http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2IQ6Juj" group-title="Alman Kanallari-Tekno Beceri",3sat | teknobeceri.com
+https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2UwZ5aw" group-title="Alman Kanallari-Tekno Beceri",pearl.tv | teknobeceri.com
+http://enstyle.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/2ZsPXY3" group-title="Alman Kanallari-Tekno Beceri",QVC | teknobeceri.com
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2TsFsVF" group-title="English News Channels-Tekno Beceri",TRT WORLD English | teknobeceri.com
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2WemXBh" group-title="English News Channels-Tekno Beceri",A NEWS English | teknobeceri.com
+https://trkvz-m.ercdn.net/trkvz-temp/anewshdm.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Cq0rOm" group-title="English News Channels-Tekno Beceri",KAZAKH TV World News English | teknobeceri.com
+http://kazakhtvru.ultraiptv.com/live_en/playlist3/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2HtpJim" group-title="English News Channels-Tekno Beceri",ABC NEWS | teknobeceri.com
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2HvrBYU" group-title="English News Channels-Tekno Beceri",CBS NEWS | teknobeceri.com
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+#EXTINF:-1 tvg-logo="https://cnn.it/2WamXSF" group-title="English News Channels-Tekno Beceri",CNN International | teknobeceri.com
+https://live.dogannet.tv/S1/HLS_LIVE/cnnint/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TYBuTS" group-title="English News Channels-Tekno Beceri",AL JAZEERA English | teknobeceri.com
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2Jmtok9" group-title="English News Channels-Tekno Beceri",RUSSIA TODAY English | teknobeceri.com
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2HFIZc3" group-title="English News Channels-Tekno Beceri",DEUTSCHE WELLE English | teknobeceri.com
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2ClImR9" group-title="English News Channels-Tekno Beceri",PRESS TV English | teknobeceri.com
+https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/2TKo7Yq" group-title="English News Channels-Tekno Beceri",NHK WORLD TV | teknobeceri.com
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
+
